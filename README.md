@@ -54,7 +54,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/sarvesh-gadage-aaa28733b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 💻 GitHub: https://github.com/YOUR-USERNAME
 
 ---
