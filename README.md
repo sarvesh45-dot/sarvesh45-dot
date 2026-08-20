@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sarvesh Gadge
+# 👋 Hi, I'm Sarvesh Gadage
 
 ### 🤖 GenAI Engineer | AI/ML Developer | LLM & RAG Enthusiast
 
