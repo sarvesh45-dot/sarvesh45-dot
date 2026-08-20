@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sarvesh Gadge
+# 👋 Hi, I'm Sarvesh Gadage
 
 ### 🤖 AI/ML & Generative AI Developer | Python | LLMs | RAG
 
